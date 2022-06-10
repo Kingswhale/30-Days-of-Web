@@ -17,8 +17,7 @@
 <!-- OVERVIEW -->
 ## Overview 📝
 
-**30+ Developer Student Clubs**  across the country have come together to organize **"30 Days of Web Development🌐"** . 
-It is an initiative for people to learn how to build web applications, irrespective of their current level of expertise.
+**"30 Days of Web Development🌐"**  is an initiative for people to learn how to build web applications, irrespective of their current level of expertise.
 
 The main **objective behind this program is to provide you with access to top-notch content at zero cost.** ✨
 
