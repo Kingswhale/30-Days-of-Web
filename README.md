@@ -1,4 +1,4 @@
-# DSC-30-Days-of-Web 💻
+# 30-Days-of-Web 💻
 
  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" /> <a href="https://github.com/30DaysofWebDEV/DSC-30-Days-of-Web/pulls" target="_blank">
 
@@ -17,7 +17,7 @@
 <!-- OVERVIEW -->
 ## Overview 📝
 
-**"30 Days of Web Development🌐"**  is an initiative for people to learn how to build web applications, irrespective of their current level of expertise.
+**30 Days of Web Development🌐**  is an initiative for people to learn how to build web applications, irrespective of their current level of expertise.
 
 The main **objective behind this program is to provide you with access to top-notch content at zero cost.** ✨
 
