@@ -1,4 +1,4 @@
-# DSC-30-Days-of-Web 💻
+# 30-Days-of-Web 💻
 
  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" /> <a href="https://github.com/Kingswhale/30-Days-of-Web/pulls" target="_blank">
 
@@ -17,8 +17,7 @@
 <!-- OVERVIEW -->
 ## Overview 📝
 
-**30+ Developer Student Clubs**  across the country have come together to organize **"30 Days of Web Development🌐"** . 
-It is an initiative for people to learn how to build web applications, irrespective of their current level of expertise.
+**30 Days of Web Development🌐**  is an initiative for people to learn how to build web applications, irrespective of their current level of expertise.
 
 The main **objective behind this program is to provide you with access to top-notch content at zero cost.** ✨
 
@@ -100,7 +99,7 @@ We have segment the resources into topics and inside each topic the content is a
 
 - **Plagiarism is strictly not allowed**. Any work that is found to be suspicious of plagiarized work will not be merged.
 - All PRs must be made from a Branch. Create a separate branch for every Issue you are working upon and once found fit, make a PR.
-Make sure your code works before submitting it :D
+Make sure your code works before submitting.
 
 <!-- pls add license and CoC here -->
 
