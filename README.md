@@ -47,7 +47,7 @@ We have segment the resources into topics and inside each topic the content is a
 ├── [HTML](https://github.com/Kingswhale/30-Days-of-Web/tree/main/HTML)<br>
 ├ - ├── [DAY1.md](https://github.com/Kingswhale/30-Days-of-Web/blob/main/HTML/DAY1.md)<br>
 ├ - ├── [DAY2.md](https://github.com/Kingswhale/30-Days-of-Web/blob/main/HTML/DAY2.md)<br>
-├ - ├── [DAY3.md](https://github.com/30DaysofWebDEV/DSC-30-Days-of-Web/blob/main/HTML/DAY3.md)<br>
+├ - ├── [DAY3.md](https://github.com/3Kingswhale/30-Days-of-Web/blob/main/HTML/DAY3.md)<br>
 ├ - ├── [DAY4.md](https://github.com/30DaysofWebDEV/DSC-30-Days-of-Web/blob/main/HTML/DAY4.md)<br>
 ├ - ├── [DAYOptional.md](https://github.com/30DaysofWebDEV/DSC-30-Days-of-Web/blob/main/HTML/DAYOptional.md)<br>
 ├ - └── [ReadME.md](https://github.com/30DaysofWebDEV/DSC-30-Days-of-Web/blob/main/HTML/ReadME.md)<br>
