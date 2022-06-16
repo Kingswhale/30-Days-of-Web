@@ -99,7 +99,7 @@ We have segment the resources into topics and inside each topic the content is a
 
 - **Plagiarism is strictly not allowed**. Any work that is found to be suspicious of plagiarized work will not be merged.
 - All PRs must be made from a Branch. Create a separate branch for every Issue you are working upon and once found fit, make a PR.
-Make sure your code works before submitting it :D
+Make sure your code works before submitting.
 
 <!-- pls add license and CoC here -->
 
