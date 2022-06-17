@@ -105,4 +105,3 @@ Make sure your code works before submitting.
 
 <!-- Reach Us -->
 ## Reach Us
-Link will be updated soonest
