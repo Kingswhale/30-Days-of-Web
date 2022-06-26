@@ -104,5 +104,5 @@ We have segment the resources into topics and inside each topic the content is a
 
 <!-- Reach Us -->
 ## Reach Us
-Link will be updated soonest
+Updated soonest
 
